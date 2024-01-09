@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Política de Privacidad y Copyright</title>
+  <style>
+    /* Estilos para el recuadro y centrado del contenido */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 160vh;
+      margin: 0;
+    }
+    .container {
+      border: 2px solid #000; /* Borde del recuadro */
+      padding: 20px; /* Espaciado interno */
+      max-width: 600px; /* Ancho máximo del contenido */
+    }
+    .copyright {
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Eliminación de cuenta. -->
+    <h1>Eliminación de cuenta Alerta Familiar!</h1>
+    <p><strong>Para eliminar su cuenta de la app Alerta Familiar!. Siga estos pasos. </strong></p>
+    <p><strong>*</strong>Primero a tener en cuenta, tu cuenta no se encuentra almacenada en nuestra base de datos más que por el nombre que usas, esto para saber que usuarios están unidos a que grupo, sin embargo, si quieres eliminar esto de todos los grupos. </p>
+<p><strong>*</strong>Envia un correo a danielbalcedo2002@gmail.com con el asunto Eliminación de cuenta </p>
+<p><strong>*</strong>Escribe tu nombre de usuario de Google y el link del grupo al que estas unido</p>
+<p><strong>*</strong>En un lapso de 24 a 48 horas responderemos a tu solicitud y eliminaremos tu usuario de este grupo, considera reinstalar la app (eliminarla y volverla a descargar) para no recibir notificaciones de grupos que no deseas, este es una versión beta de la app y aún tenemos mucho que trabajar en el futuro. Agradecemos su comprensión. </p>
+
+  </div>
+</body>
+</html>
